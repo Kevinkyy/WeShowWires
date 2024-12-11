@@ -1,7 +1,7 @@
 # We Show Wires: AR Visualization of Electrical Wires in Indoor Spaces
 
 ### Project Overview
-This project provides an AR solution for visualizing the condition of electrical wires in indoor spaces. Users can interact with the AR environment to check the maintenance status of various wires.
+This project provides an AR solution for visualizing the condition of electrical wires in indoor spaces. The system simplifies maintenance and troubleshooting for professionals by enabling users to interact with an AR environment, revealing hidden wires and showing their conditions with a simple click.
 
 ### Resources Used
 - **Unity**:
@@ -10,14 +10,18 @@ This project provides an AR solution for visualizing the condition of electrical
 - **Python**:
   - ARENA library for real-time scene management
   - Script for interactive visualization and toggling visibility of wires
-- **Other Tools**:
-  - ARENA XR for scene management
+- **Hardware**:
+  - iPhone/iPad Camera: Used for 3D model scanning and wire visualization in AR environments
+- **Software**:
+  - ARENA XR Platform: For scene management and user interaction
+  - Polycam: For 3D scanning and generating point clouds
+  - OpenFLAME: For precise wire localization in real-world spaces
+  - XR Browser: For displaying AR scenes
 
-### Instructions for Running the Project
-1. Import the Unity project.
-2. Use the ARENA script to set up the AR scene:
-   - The script provides clickable buttons and objects for toggling wire visibility and checking maintenance status.
-3. Deploy the project using ARENA's hosting platform or a local setup.
+### Reflection
+- Successfully implemented core AR functionality.
+- Introduced selective visibility and maintenance tagging to enhance user interaction and reduce clutter.
+- Faced challenges with technical constraints, such as integrating keyboard and camera functionalities.
 
 ---
 
