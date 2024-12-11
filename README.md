@@ -36,8 +36,14 @@ This project delivers an **interactive AR solution** to visualize the condition 
 - **Condition Indicators**: Show wire conditions (e.g., "Good," "Warning," "Severe") interactively.
 
 ### 🎨 Design Highlights
-- **Selective Visibility**: Toggle wire visibility for specific appliances, reducing visual clutter.
-- **Maintenance History Nodes**: Track and display wire conditions over time for enhanced usability.
+1. **Kitchen Model Scanned by Polycam**
+   ![Model Scanned by Polycam](./Images/Polycam.png)
+
+2. **Wire Model Created in Unity (with the Kitchen Model)**
+   ![Wire Model Created in Unity](./Images/Unity.png)
+
+3. **Wire Model Fitted to Point Cloud Creation by OpenFLAME**
+   ![Wire Model Fitted by OpenFLAME](./Images/Openflame.png)
 
 ---
 
