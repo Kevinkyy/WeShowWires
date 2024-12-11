@@ -11,7 +11,7 @@ This project delivers an **interactive AR solution** to visualize the condition 
 
 ### 🔧 Unity
 - **Version**: 2022.1.14
-- **Assets**: [Pillars Pack](https://assetstore.unity.com/packages/pillars-pack) (Used for wire models and prefabs)
+- **Assets**: [Pillars Pack](https://assetstore.unity.com/packages/3d/environments/industrial/pillars-pack-228563) (Used for wire models and prefabs)
 
 ### 🐍 Python
 - **Library**: ARENA for real-time scene management
